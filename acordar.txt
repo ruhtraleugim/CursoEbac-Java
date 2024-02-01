@@ -1,0 +1,13 @@
+inicio 
+  dormir
+  Acordar
+  abrir um dos olhos 
+  ver as horas 
+    se horas<hora de acordar então 
+      voltar a dormir 
+    senão se horas => hora de acrodar então 
+      levantar 
+      escovar os dentes
+      comer
+      começar a estudar 
+ fimse
